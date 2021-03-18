@@ -17,7 +17,7 @@ Um exemplo do ocorrido é a história do americano Thomas Petrov, que ao levar o
 
 ##### Proposta de Solução
 
-Dado esse problema, o desenvolvimento da inteligência Artificial que reconhece se algo é ou não aranha, e depois reconhece o mesmo em específico, dar seu nome e se é de fato ou não venenosa, ira orientara população a tomar cuidados com as aranhas certas.
+Dado esse problema, o desenvolvimento da inteligência Artificial que reconhece se algo é ou não aranha, e depois reconhece o mesmo em específico, dar seu nome e se é de fato ou não venenosa, ira orientar a população a tomar cuidados com as aranhas certas.
 
 Existe um aplicativo mobile parecido que se chama "Aranhas identificador aplicativo de foto, Câmera (acesso antecipado)", no qual a partir de uma foto de celular comum já identifica a aranha, porém o programa não distingue todas, ele possui aranhas especificas, que são 25 das 30 mais peçonhentas do mundo.
 Fora a parte de identificar os determinados aracnídeos, o aplicativo também da opção dos usuários colocarem no mapa onde ela esta. 
